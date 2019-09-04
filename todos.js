@@ -4,7 +4,7 @@ var buttonElement = document.querySelector('#app button');
 
 var todos = [
     'Fazer Café',
-    'Estudar Java Script',
+    'Estudar Java Script!',
     'Acessar comunidade'
 ];
 
